@@ -1,0 +1,15 @@
+package com.luv2code.springdemo.Services;
+
+import java.util.List;
+
+import com.luv2code.springdemo.entity.Customer;
+
+public class CustomerServiceIimpl implements CustomerServices {
+
+	@Override
+	public List<Customer> getCustomer() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

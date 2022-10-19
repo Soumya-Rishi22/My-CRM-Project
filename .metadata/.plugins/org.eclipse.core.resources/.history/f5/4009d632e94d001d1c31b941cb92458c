@@ -1,0 +1,5 @@
+package om.luv2code.springdemo.dao;
+
+public interface CustomerDao {
+
+}

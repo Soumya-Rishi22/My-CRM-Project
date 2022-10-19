@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+      
+      <title>WelCome to My App</title>
+      <style>
+      
+     div{
+     border:2px solid black;
+     
+     width:70%;
+     height:100%;
+     
+     }
+     
+     #mypage{
+     border:1px solid black;
+     background-color:pink;
+     }
+      </style>
+      </head>
+
+   <body>
+       <div>
+        <div id="mypage">
+        <h1>Welcome to my page</h1>
+       
+        </div>
+       <ul>
+       
+       <li>Home</li>
+       <li>Register</li>
+       </ul>
+       
+       
+       </div>
+   
+   
+   
+   </body>
+</html>

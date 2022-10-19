@@ -1,0 +1,10 @@
+package com.luv2code.springdemo.Services;
+
+import java.util.List;
+
+import com.luv2code.springdemo.entity.Customer;
+
+public interface CustomerServices {
+
+	public List<Customer> getCustomer();
+}

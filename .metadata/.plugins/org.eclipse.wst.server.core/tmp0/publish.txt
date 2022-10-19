@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Oct 18 17:58:47 IST 2022
+org.eclipse.jst.jee.server\:/binary\:F\:\\Soumya\ CRM\ Project\\Web-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\Soumya\ CRM\ Project\\Web-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar

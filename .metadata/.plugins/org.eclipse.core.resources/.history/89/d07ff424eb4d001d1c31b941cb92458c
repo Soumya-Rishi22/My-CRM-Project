@@ -1,0 +1,15 @@
+package om.luv2code.springdemo.dao;
+
+import java.util.List;
+
+import com.luv2code.springdemo.entity.Customer;
+
+public class CustomerDAOImplements implements CustomerDao {
+
+	@Override
+	public List<Customer> getCustomer() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
